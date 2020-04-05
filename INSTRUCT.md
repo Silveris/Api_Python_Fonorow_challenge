@@ -1,4 +1,4 @@
-# Python API Homework - What's the Weather Like?
+# Python API Challenge - What's the Weather Like?
 
 ## Background
 
@@ -7,8 +7,6 @@ Whether financial, political, or social -- data's true power lies in its ability
 Now, we know what you may be thinking: _"Duh. It gets hotter..."_
 
 But, if pressed, how would you **prove** it?
-
-![Equator](Images/equatorsign.png)
 
 ### Before You Begin
 
@@ -65,8 +63,6 @@ Now let's use your skills in working with weather data to plan future vacations.
 
 * Create a heat map that displays the humidity for every city from the part I of the homework.
 
-  ![heatmap](Images/heatmap.png)
-
 * Narrow down the DataFrame to find your ideal weather condition. For example:
 
   * A max temperature lower than 80 degrees but higher than 70.
@@ -82,8 +78,6 @@ Now let's use your skills in working with weather data to plan future vacations.
 * Using Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
 
 * Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
-
-  ![hotel map](Images/hotel_map.png)
 
 As final considerations:
 
